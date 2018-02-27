@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/User/Boxy Tomorrow (Flake8Lint).tmTheme",
+	"font_size": 26,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Boxy Tomorrow.sublime-theme"
+}

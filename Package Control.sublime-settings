@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Abacus",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"BoundKeys",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"Emmet",
+		"FindKeyConflicts",
+		"Git",
+		"HTML5",
+		"LaTeXTools",
+		"Markdown Extended",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Print to HTML",
+		"Processing",
+		"Python Breakpoints",
+		"Python Flake8 Lint",
+		"Python PEP8 Autoformat",
+		"Shell Turtlestein",
+		"SideBarEnhancements",
+		"Sublime Files",
+		"Table Editor",
+		"Terminal",
+		"Theme - Cobalt2",
+		"TrailingSpaces"
+	]
+}

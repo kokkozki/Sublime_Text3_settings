@@ -1,0 +1,14 @@
+{
+    "builder_settings" : {
+        "command" : ["latexmk", "-cd",
+                "-e", "$latex = 'platex %O -no-guess-input-enc -kanji=utf8 -interaction=nonstopmode -synctex=1 %S'",
+                "-e", "$biber = 'biber %O --bblencoding=utf8 -u -U --output_safechars %B'",
+                "-e", "$bibtex = 'pbibtex %O %B'",
+                "-e", "$makeindex = 'makeindex  %O -o %D %S'",
+                "-e", "$dvipdf = 'dvipdfmx %O -o %D %S'",
+                "-e", "$pdf_mode = '3'",
+                "-e", "$pdf_update_method = '0'",
+                "-e", "$pdf_previewer = 'open -a preview.app'",
+                "-f", "-%E", "-norc", "-gg", "-pdfdvi"],
+    }
+}
