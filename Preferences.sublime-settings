@@ -7,5 +7,10 @@
 		"Vintage"
 	],
 	"show_encoding": true,
-	"theme": "Boxy Tomorrow.sublime-theme"
+	"theme": "Boxy Tomorrow.sublime-theme",
+	// Display file encoding in the status bar
+    "show_encoding": true,
+
+    // Display line endings in the status bar
+    "show_line_endings": true,
 }
