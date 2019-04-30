@@ -1,0 +1,12 @@
+[
+	{
+    "keys": ["ctrl+e"],
+    "args": {
+        "action": "expand_abbreviation"
+    },
+    "command": "run_emmet_action",
+    "context": [
+        { "key": "following_text", "operator": "regex_match", "operand": "$" }
+    ]
+	}
+]
